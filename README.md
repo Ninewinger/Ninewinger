@@ -14,9 +14,7 @@
 
 - 📫 How to reach me **d.v.petricio@gmail.com**
 
-- 📄 Know about my experiences 
--   -[Teacher assistant at 4Geek Academy]
--   -[Back-end junior Developer in Fapro]
+- 📄 Know about my experiences [Teacher assistant at 4Geek Academy], [Back-end junior Developer in Fapro]
 
 - ⚡ Fun fact **I leave my 10 years career to start in dev world**
 
