@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/mrevilside" target="blank"><img src="https://img.shields.io/twitter/follow/mrevilside?logo=twitter&style=for-the-badge" alt="mrevilside" /></a> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/diego-vergara-petricio/"><img src="https://www.linkedin.com/in/diego-vergara-petricio/" alt="Diego Vergara" /></a> </p>
+
 - 🌱 I’m currently learning **Pythorch and deeplearning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ninewinger?tab=repositories](https://github.com/Ninewinger?tab=repositories)
