@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/mrevilside" target="blank"><img src="https://img.shields.io/twitter/follow/mrevilside?logo=twitter&style=for-the-badge" alt="mrevilside" /></a> </p>
 
 
-- 🌱 I’m currently learning **Pythorch and deeplearning**
+- 🌱 I’m currently learning **LLMs agents to apps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ninewinger?tab=repositories](https://github.com/Ninewinger?tab=repositories)
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Teacher assistant at 4Geek Academy], [Back-end junior Developer in Fapro]
 
-- ⚡ Fun fact **I leave my 10 years career to start in dev world**
+- ⚡ Fun fact **I have a really dark sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
